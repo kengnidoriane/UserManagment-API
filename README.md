@@ -33,8 +33,8 @@ A RESTful API for user management and authentication built with Spring Boot, Spr
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
-cd user-management-api
+git clone 'https://github.com/kengnidoriane/UserManagment-API'
+cd UserManagment-API
 ```
 
 2. **Setup PostgreSQL database**
